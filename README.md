@@ -21,11 +21,6 @@ FBA Master 是一款专为亚马逊卖家打造的利润计算工具。无论你
 软件支持美国、德国、日本三大亚马逊站点，内置最新的 FBA 配送费用和佣金费率，输入产品信息后一键计算，所有费用明细一目了然。
 
 ---
-<img width="1442" height="1182" alt="image" src="https://github.com/user-attachments/assets/4bd4f6a8-4a81-45c6-8812-2c6568a083d1" /> <img width="1442" height="1182" alt="image" src="https://github.com/user-attachments/assets/ca479755-50f7-4bd7-be52-e55cfa1837ed" /><img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/6c0546be-7bc9-4a70-b1d7-77942fb1721a" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/135cc0ff-4fe5-4083-8ab9-68ec025db1fd" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/069ec657-6f9c-4a39-9a41-cc20038a9823" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/6261f094-cd08-41d8-91dc-816c954534af" />
-
-
-
-
 
 
 
@@ -152,11 +147,6 @@ FBA Master 是一款专为亚马逊卖家打造的利润计算工具。无论你
 3. 选择安装目录，按提示完成安装
 4. 从开始菜单或桌面快捷方式启动
 
-### 方式二：便携版
-
-1. 从 [Releases](../../releases) 页面下载便携版压缩包
-2. 解压到任意目录
-3. 双击 `FBA_Master_V7.exe` 即可运行
 
 ---
 
@@ -205,16 +195,41 @@ FBA Master 是一款专为亚马逊卖家打造的利润计算工具。无论你
 
 ## 截图
 
-> 截图待补充
+<img width="1442" height="1182" alt="image" src="https://github.com/user-attachments/assets/4bd4f6a8-4a81-45c6-8812-2c6568a083d1" /> <img width="1442" height="1182" alt="image" src="https://github.com/user-attachments/assets/ca479755-50f7-4bd7-be52-e55cfa1837ed" /><img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/6c0546be-7bc9-4a70-b1d7-77942fb1721a" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/135cc0ff-4fe5-4083-8ab9-68ec025db1fd" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/069ec657-6f9c-4a39-9a41-cc20038a9823" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/6261f094-cd08-41d8-91dc-816c954534af" />
 
 ---
 
-## 许可证
+## 💖 支持作者
 
-> 待补充
+如果这个工具对您有帮助，欢迎支持作者继续开发更多实用工具！
 
----
+### 💳 打赏方式
 
-## 反馈与建议
+<div align="center">
 
-如果你在使用过程中遇到问题或有改进建议，欢迎在 [Issues](../../issues) 中提出。
+#### 微信支付
+<img src="https://github.com/muscccm/Excel-Column-Extraction-Tool/blob/main/WC.png?raw=true" width="200" alt="微信支付二维码">
+
+#### 支付宝
+<img src="https://github.com/muscccm/Excel-Column-Extraction-Tool/blob/main/AP.png?raw=true" width="200" alt="支付宝二维码">
+
+#### PayPal
+[点击这里通过PayPal支持](https://paypal.me/muscccm?country.x=C2&locale.x=zh_XC)
+
+</div>
+
+您的支持是我继续创作的动力！💪
+
+## 📝 许可证
+
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+
+## 🤝 贡献
+
+欢迎提交问题和功能请求！如果您想贡献代码，请先创建一个 issue 讨论您想要添加的功能。
+
+## 📧 联系方式
+
+如有问题或建议，请通过以下方式联系：
+- 创建 GitHub Issue
+- 通过打赏页面留言
