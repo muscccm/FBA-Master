@@ -230,4 +230,4 @@ FBA Master 是一款专为亚马逊卖家打造的利润计算工具。无论你
 
 如有问题或建议，请通过以下方式联系：
 - 创建 GitHub Issue
-- 通过打赏页面留言
+- 邮箱：muscccm0903@hotmail.com
