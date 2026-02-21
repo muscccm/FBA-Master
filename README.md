@@ -8,9 +8,6 @@
   亚马逊 FBA 利润计算器 · 多站点 · 多模式 · 一键对比
 </p>
 
-<p align="center">
-  <a href="README_EN.md">English</a> · 中文
-</p>
 
 ---
 
