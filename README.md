@@ -19,7 +19,9 @@ FBA Master 是一款专为亚马逊卖家打造的利润计算工具。无论你
 软件支持美国、德国、日本三大亚马逊站点，内置最新的 FBA 配送费用和佣金费率，输入产品信息后一键计算，所有费用明细一目了然。
 
 ---
-
+<a href="https://apps.microsoft.com/detail/9nkl5vf0j17z?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 
 ## 主要功能
