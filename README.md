@@ -198,24 +198,6 @@ FBA Master 是一款专为亚马逊卖家打造的利润计算工具。无论你
 <img width="1442" height="1182" alt="image" src="https://github.com/user-attachments/assets/4bd4f6a8-4a81-45c6-8812-2c6568a083d1" /> <img width="1442" height="1182" alt="image" src="https://github.com/user-attachments/assets/ca479755-50f7-4bd7-be52-e55cfa1837ed" /><img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/6c0546be-7bc9-4a70-b1d7-77942fb1721a" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/135cc0ff-4fe5-4083-8ab9-68ec025db1fd" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/069ec657-6f9c-4a39-9a41-cc20038a9823" /> <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/6261f094-cd08-41d8-91dc-816c954534af" />
 
 ---
-
-## 💖 支持作者
-
-如果这个工具对您有帮助，欢迎支持作者继续开发更多实用工具！
-
-### 💳 打赏方式
-
-<div align="center">
-
-#### 微信支付
-<img src="https://github.com/muscccm/Excel-Column-Extraction-Tool/blob/main/WC.png?raw=true" width="200" alt="微信支付二维码">
-
-#### 支付宝
-<img src="https://github.com/muscccm/Excel-Column-Extraction-Tool/blob/main/AP.png?raw=true" width="200" alt="支付宝二维码">
-
-#### PayPal
-[点击这里通过PayPal支持](https://paypal.me/muscccm?country.x=C2&locale.x=zh_XC)
-
 </div>
 
 您的支持是我继续创作的动力！💪
